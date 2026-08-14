@@ -1,0 +1,10 @@
+names:
+  0: crack
+  1: scratch
+  2: deformation
+  3: missing
+nc: 4
+path: C:\Users\User\Desktop\new\dataset
+test: images/test
+train: images/train
+val: images/val
